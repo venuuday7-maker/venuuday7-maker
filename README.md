@@ -8,6 +8,9 @@
 | [Text Classification (NLP)](https://github.com/venuuday7-maker/text-classification-nlp) | TF-IDF pipelines, 5-fold CV model comparison, tuning, single held-out evaluation | Macro-F1 0.86 on 4-topic 20 Newsgroups |
 | [Handbook RAG Q&A](https://github.com/venuuday7-maker/handbook-rag-qa) | Chunking, retrieval, hand-labelled retrieval evaluation, optional Claude generation | Correct section in top 3 for 13/14 questions |
 | [Tabular ML Benchmark](https://github.com/venuuday7-maker/tabular-ml-benchmark) | Leakage-safe pipelines, repeated CV, dummy baselines | ROC-AUC 0.995 (breast cancer), R² 0.48 (diabetes) |
+| [ML Model Serving API](https://github.com/venuuday7-maker/ml-model-serving-api) | FastAPI service: validation, batching, health checks, graceful degradation, Docker, CI | 9 tests, CI passing |
+| [Movie Recommender](https://github.com/venuuday7-maker/movie-recommender) | Matrix factorisation from scratch on MovieLens; rating vs ranking evaluation | RMSE 0.848; popularity-blend precision@10 0.126 |
+| [Neural Net from Scratch](https://github.com/venuuday7-maker/neural-net-from-scratch) | NumPy MLP with backprop and Adam, verified by gradient checking | 97.5% on digits, matches scikit-learn |
 
 ## Full-stack and other projects
 | Project | What it is | Stack |
